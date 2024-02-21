@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🧍🏾‍♂️ Vinícius Augusto<br>💻 Desenvolvedor Full Stack<br>👨🏾‍🎓 Graduando em Sistemas para Internet<br>
+💻 Desenvolvedor Full Stack<br>👨🏾‍🎓 Graduando em Sistemas para Internet<br>
 
 
 ## 🌐 Socials:
