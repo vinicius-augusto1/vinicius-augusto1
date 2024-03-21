@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Desenvolvedor Full Stack<br>👨🏾‍🎓 Graduando em Sistemas para Internet<br>
+💻 Desenvolvedor Backend<br>👨🏾‍🎓 Graduando em Sistemas para Internet<br>
 
 
 ## 🌐 Socials:
