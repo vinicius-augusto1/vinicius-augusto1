@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Backend 💻<br>- Graduando em Sistemas para Internet - IFSMG 👨🏾‍🎓</p>
+<p align="left">💻 Desenvolvedor Backend<br>👨🏾‍🎓 Graduando em Sistemas para Internet - IFSMG </p>
 
 ###
 
